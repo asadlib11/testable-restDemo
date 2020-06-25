@@ -1,0 +1,11 @@
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-06-25T07:55:18.161Z"}
+{"level":"info","message":"Connected to database at mongodb://localhost/testableRestDemo...","timestamp":"2020-06-25T07:55:18.184Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-06-25T07:56:14.342Z"}
+{"level":"info","message":"Connected to database at mongodb://localhost/testableRestDemo...","timestamp":"2020-06-25T07:56:14.370Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-06-25T08:02:56.422Z"}
+{"level":"info","message":"Connected to database at mongodb://localhost/testableRestDemo...","timestamp":"2020-06-25T08:02:56.450Z"}
+{"level":"error","message":"cb is not a function","timestamp":"2020-06-25T08:02:56.474Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-06-25T08:09:06.475Z"}
+{"level":"info","message":"Connected to database at mongodb://localhost/testableRestDemo...","timestamp":"2020-06-25T08:09:06.504Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-06-25T08:09:27.452Z"}
+{"level":"info","message":"Connected to database at mongodb://localhost/testableRestDemo...","timestamp":"2020-06-25T08:09:27.492Z"}
